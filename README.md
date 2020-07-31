@@ -1,6 +1,6 @@
 # CC-Internship
 
-This is my Internship work were I had to scrape the data of the College details and visualize it to get the valued information.
+This is my Internship work where I had to scrape the data of the College details and visualize it to get the valued information.
 
 In this intership period I performed the following tasks:-
 - Developed a program to Web Scrape the required data
